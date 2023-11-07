@@ -3,7 +3,7 @@
 
 - 🏫 I’m currently studying at **Institut Bisnis Muhammadiyah Bekasi, Indonesia**
 
-- 🌱 I’m currently learning **html, css, react, next.js**
+- 🌱 I’m currently learning **react, tailwind css, and next.js**
 
 - 💬 Ask me about **discord.js, sapphire-framework**
 
