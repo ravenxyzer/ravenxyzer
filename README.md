@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **discord.js, sapphire-framework**
 
-- 📫 How to reach me **raynezzar21@gmail.com**
-
 - ⚡ Fun fact **I study management at a college, i learned all this self-taught**
 
 <h3 align="left">Connect with me:</h3>
