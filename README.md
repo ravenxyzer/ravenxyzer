@@ -1,9 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Zarr</h1>
 <h3 align="center">Just a man who is excited to learn everything he likes.</h3>
 
-- 🏫 I’m currently studying at **Institut Bisnis Muhammadiyah Bekasi, Indonesia**
-
-- 🌱 I’m currently learning **react, tailwind css, and next.js**
+- 🏫 Fresh Graduate from **Institut Bisnis Muhammadiyah Bekasi, Indonesia**
 
 - 💬 Ask me about **discord.js, sapphire-framework**
 
