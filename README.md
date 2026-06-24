@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Zarr</h1>
-<h3 align="center">Just a man who is excited to learn everything he likes.</h3>
+<h3 align="center">Nah Bro I'm Done with Coding, Currently being a part of Finance & Accounting.</h3>
 
 - 🏫 Fresh Graduate from **Institut Bisnis Muhammadiyah Bekasi, Indonesia**
 
